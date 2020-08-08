@@ -1,0 +1,10 @@
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers Management System.csprojResolveAssemblyReference.cache
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers_Management_System.Login.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers_Management_System.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers Management System.csproj.GenerateResource.Cache
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\bin\Debug\Crackers Management System.exe
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\bin\Debug\Crackers Management System.pdb
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers_Management_System.Register.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers Management System.exe
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers Management System.pdb
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Crackers Management System\Crackers Management System\obj\x86\Debug\Crackers_Management_System.NewUser.resources
